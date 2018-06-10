@@ -2,7 +2,9 @@
 
 
 Technical Stack:Android Studio
+
 API:TensorFlow,IBM Watson
+
 Video:https://drive.google.com/open?id=1Ne_-WO9pV17WcmMc_4j2JKLGnFlqrUu0 
 
 An application that would help facilitate a user with his or her diet.
