@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AI_Calorie_Counter_Demo-master.iml" filepath="$PROJECT_DIR$/AI_Calorie_Counter_Demo-master.iml" />
+      <module fileurl="file://G:\Test\AI_Calorie_Counter_Demo-master\DemoYS.iml" filepath="G:\Test\AI_Calorie_Counter_Demo-master\DemoYS.iml" />
+      <module fileurl="file://G:\Test\AI_Calorie_Counter_Demo-master\DemoYS-03a9c6b36800e866e09b4338bb0dfd0e4b8ac105.iml" filepath="G:\Test\AI_Calorie_Counter_Demo-master\DemoYS-03a9c6b36800e866e09b4338bb0dfd0e4b8ac105.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
